@@ -1,1 +1,1 @@
-# iakore.githud.io
+# iakore.github.io
